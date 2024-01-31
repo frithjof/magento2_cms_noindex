@@ -15,7 +15,7 @@
             "registration.php"
         ],
         "psr-4": {
-            "Frithjof\\Template\\": ""
+            "Frithjof\\Cmsnoindex\\": ""
         }
     }
 }
