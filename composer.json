@@ -1,0 +1,21 @@
+{
+    "name": "frithjof/magento2-cms-noindex",
+    "description": "Magento 2 module to enable editor in cms page to select noindex for it",
+    "require": {
+        "php": ">=8.1",
+        "magento/framework": ">=103"
+    },
+    "type": "magento2-module",
+    "version": "1.0.0",
+    "license": [
+        "MIT"
+    ],
+    "autoload": {
+        "files": [
+            "registration.php"
+        ],
+        "psr-4": {
+            "Frithjof\\Template\\": ""
+        }
+    }
+}
