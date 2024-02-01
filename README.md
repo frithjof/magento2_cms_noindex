@@ -1,3 +1,7 @@
+## Exclude some cms pages from robots index
+
+you can set in a cms page a switch if the page should have <meta name="robots" content="NOINDEX,NOFOLLOW"/>
+
 ## Installation
 
 ```
